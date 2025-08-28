@@ -1,0 +1,4 @@
+npm error code ERR_SSL_CIPHER_OPERATION_FAILED
+npm error 50050000:error:1C800066:Provider routines:ossl_gcm_stream_update:cipher operation failed:c:\ws\deps\openssl\openssl\providers\implementations\ciphers\ciphercommon_gcm.c:325:
+npm error
+npm error A complete log of this run can be found in: C:\Users\m2079\AppData\Local\npm-cache\_logs\2025-08-28T04_25_43_135Z-debug-0.log
